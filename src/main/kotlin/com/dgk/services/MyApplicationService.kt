@@ -1,6 +1,6 @@
-package com.github.dingguangkuo.mvvmtemplate.services
+package com.dgk.services
 
-import com.github.dingguangkuo.mvvmtemplate.MyBundle
+import com.dgk.MyBundle
 
 class MyApplicationService {
 

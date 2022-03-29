@@ -1,7 +1,7 @@
-package com.github.dingguangkuo.mvvmtemplate.services
+package com.dgk.services
 
 import com.intellij.openapi.project.Project
-import com.github.dingguangkuo.mvvmtemplate.MyBundle
+import com.dgk.MyBundle
 
 class MyProjectService(project: Project) {
 
